@@ -1,4 +1,4 @@
-const navFunc = require('./inquirer/functions');
+const navFunc = require('./helpers/functions');
 
 const init = () => {
   navFunc();
